@@ -1,4 +1,4 @@
-# Javascript_Knockout_QUnit_Example"
+# Javascript_Knockout_QUnit_Example
  
 Example simplified view model:
 
